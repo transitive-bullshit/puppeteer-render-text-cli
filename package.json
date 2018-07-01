@@ -1,6 +1,6 @@
 {
   "name": "puppeteer-render-text-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "CLI for rendering text with headless chrome.",
   "main": "index.js",
   "repository": "transitive-bullshit/puppeteer-render-text-cli",
