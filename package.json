@@ -1,0 +1,43 @@
+{
+  "name": "puppeteer-render-text-cli",
+  "version": "0.0.0",
+  "description": "CLI for rendering text with headless chrome.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/puppeteer-render-text-cli",
+  "author": "Travis Fischer <travis@automagical.ai>",
+  "license": "MIT",
+  "bin": {
+    "github": "index.js"
+  },
+  "scripts": {
+    "docs": "update-markdown-usage",
+    "test": "ava -v && standard"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "keywords": [
+    "puppeteer",
+    "cli",
+    "render",
+    "text",
+    "html",
+    "imagemagick",
+    "pango",
+    "font",
+    "image",
+    "png",
+    "fontfaceobserver"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "execa": "^0.10.0",
+    "standard": "^11.0.0",
+    "update-markdown-usage": "^1.0.1"
+  },
+  "dependencies": {
+    "commander": "^2.15.1",
+    "node-compat-require": "^1.0.3",
+    "puppeteer-render-text": "^1.0.2"
+  }
+}
