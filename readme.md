@@ -8,7 +8,7 @@
   <img width="502" alt="Logo" src="https://cdn.rawgit.com/transitive-bullshit/puppeteer-render-text/master/media/logo.png">
 </p>
 
-This CLI also has a [library](https://github.com/transitive-bullshit/puppeteer-render-text).
+This CLI is also available as a [library](https://github.com/transitive-bullshit/puppeteer-render-text).
 
 ## Why?
 
@@ -16,7 +16,7 @@ ImageMagick is the traditional unix tool to programatically [render text](http:/
 
 [Puppeteer](https://github.com/GoogleChrome/puppeteer), on the other hand, allows for robust, headless chrome screenshots with best-in-class support for all modern html / text / font features.
 
-**This module makes it easy to use headless chrome to render text + html to images.**
+**This CLI makes it easy to use headless chrome to render text + html to images.**
 
 ## Features
 
