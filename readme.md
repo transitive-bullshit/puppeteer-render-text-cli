@@ -37,6 +37,24 @@ npm install -g puppeteer-render-text-cli
 
 ## Usage
 
+```bash
+  Usage: puppeteer-render-text [options] <text>
+
+  Options:
+
+    -V, --version                    output the version number
+    -o, --output <path>              path of image file to store result (default: out.png)
+    -w, --width <number>             optional max width
+    -h, --height <number>            optional max height
+    -g, --load-google-font           load font families from google
+    -l, --load-font-family <string>  font family to load with fontfaceobserver
+    -s, --style <string>             JSON string of CSS styles (default: { })
+    --font-family <string>           font-family to add to style
+    --font-size <string>             font-size to add to style
+    --padding <string>               padding to add to style
+    --color <string>                 color to add to style
+    -h, --help                       output usage information
+```
 
 ## Related
 
