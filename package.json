@@ -6,8 +6,9 @@
   "repository": "transitive-bullshit/puppeteer-render-text-cli",
   "author": "Travis Fischer <travis@automagical.ai>",
   "license": "MIT",
+  "reveal": true,
   "bin": {
-    "github": "index.js"
+    "puppeteer-render-text": "index.js"
   },
   "scripts": {
     "docs": "update-markdown-usage",
