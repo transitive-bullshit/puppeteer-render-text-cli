@@ -65,3 +65,5 @@ npm install -g puppeteer-render-text-cli
 ## License
 
 MIT © [Travis Fischer](https://github.com/transitive-bullshit)
+
+Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
